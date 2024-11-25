@@ -33,7 +33,6 @@ build/
 .vscode/
 
 ### Bazel Generated Files
-.bazelbsp
 bazel-bin/
 bazel-out/
 bazel-testlogs/
