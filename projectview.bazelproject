@@ -1,0 +1,6 @@
+
+directories:
+
+# Load all targets in the project
+targets:
+  //src/...
